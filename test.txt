@@ -4,3 +4,5 @@ BLAH BLAH BLAH BLAH
 
 
 This line was created in the branch1
+
+This line was created in the branch2
